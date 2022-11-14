@@ -1,0 +1,29 @@
+#include<stdio.h>
+int main()
+{
+	int daima = 0;
+
+	while (daima < 20)
+	{
+		printf("写代码%d\n",daima);
+		++daima;
+	}
+	if (daima == 20)
+		printf("666");
+
+	return 0;
+}#include<stdio.h>
+int main()
+{
+	int daima = 0;
+
+	while (daima < 20)
+	{
+		printf("写代码%d\n",daima);
+		++daima;
+	}
+	if (daima == 20)
+		printf("666");
+
+	return 0;
+}
